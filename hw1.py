@@ -1,2 +1,2 @@
-print("homework")
+print("hello")
 print("fun")
